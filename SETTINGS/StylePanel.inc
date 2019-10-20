@@ -116,6 +116,25 @@ ToolTipWidth=(#skin.Width#+100)
 ToolTipHidden=#skin.ToolTip#
 Group=PopupItem
 
+[sTextM]
+X=75
+Y=0r
+H=#h.Other#
+W=(#skin.Width#)
+ClipString=1
+FontColor=#color.Text#
+FontFace=#font.Name#
+FontSize=#font.Size#
+StringCase=NONE
+StringStyle=BOLD
+StringEffect=#font.Style#
+FontEffectColor=00000040
+StringAlign=CENTER
+AntiAlias=1
+ToolTipWidth=(#skin.Width#+100)
+ToolTipHidden=#skin.ToolTip#
+Group=PopupItem
+
 [sSeperator]
 X=6
 Y=#h.Other#r
